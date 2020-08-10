@@ -199,6 +199,7 @@
     import MainTitle from "@/components/MainTitle";
     import Paragraph from "@/components/Paragraph";
 
+
     import pic1 from "@/components/images/banner.png"
     import pic2 from "@/components/images/metals.png"
     import pic3 from "@/components/images/me_logo.png"
